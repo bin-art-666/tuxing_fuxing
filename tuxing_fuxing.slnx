@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tuxing_fuxing.vcxproj" Id="d5977bcc-4c2a-41a2-92a4-a93d2fd45ef6" />
+</Solution>
